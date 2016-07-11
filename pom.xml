@@ -6,7 +6,6 @@
 	<groupId>algorithm-core-learning</groupId>
 	<artifactId>algorithm-core-learning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<packaging>jar</packaging>
 
 	<name>algorithm-core-learning</name>
