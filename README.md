@@ -22,7 +22,8 @@
 ### 一、支持泥瓦匠
 1. 拿起微信，关注公众号：「泥瓦匠BYSocket 」。添加我微信：bysocket01，加入纯技术交流群，成长技术
 2. 给教程的开源代码仓库点个 **Star** 吧
-	- [GitHub（algorithm-core-learning）](https://github.com/JeffLi1993/algorithm-core-learning "GitHub（algorithm-core-learning）") https://github.com/JeffLi1993/algorithm-core-learning
+  * Github：[https://github.com/JeffLi1993/algorithm-core-learning](https://github.com/JeffLi1993/algorithm-core-learning)
+  * Gitee：[https://gitee.com/jeff1993/algorithm-core-learning](https://gitee.com/jeff1993/algorithm-core-learning)
 3. 帮忙分享该系列文章链接给更多的朋友
 
 
