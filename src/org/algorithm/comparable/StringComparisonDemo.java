@@ -40,7 +40,7 @@ public class StringComparisonDemo {
         // 前面每个字符不完全一样，返回：出现不一样的字符 ASCII 差
         String bar04 = "ABD";
         String bar05 = "aABCD";
-        System.out.println(foo.compareTo(bar04)); // -1  (foo 的 'C' 字符 ASCII 值为 67，bar04 的 'D' 字符 ASCII 值为 68。返回 67 - 68 = -1)
-        System.out.println(foo.compareTo(bar05)); // -32 (foo 的 'A' 字符 ASCII 值为 65，bar04 的 'a' 字符 ASCII 值为 97。返回 65 - 97 = -32)
+        System.out.println(foo.compareTo(bar04)); // -1  (foo 的 'C' 字符 ASCII 码值为 67，bar04 的 'D' 字符 ASCII 码值为 68。返回 67 - 68 = -1)
+        System.out.println(foo.compareTo(bar05)); // -32 (foo 的 'A' 字符 ASCII 码值为 65，bar04 的 'a' 字符 ASCII 码值为 97。返回 65 - 97 = -32)
     }
 }
