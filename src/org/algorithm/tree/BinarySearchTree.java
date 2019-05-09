@@ -1,6 +1,6 @@
 package org.algorithm.tree;
 /*
- * Copyright [2015] [Jeff Lee]
+ * Copyright [2015-2019] [Jeff Lee]
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -201,7 +201,7 @@ public class BinarySearchTree {
     public void toString(TreeNode root) {
         if (root != null) {
             toString(root.left);
-            System.out.print("value = " + root.value);
+            System.out.print(" value = " + root.value);
             if (root.right != null ) {
                 System.out.print(" -> ");
             }
@@ -210,29 +210,3 @@ public class BinarySearchTree {
     }
 }
 
-/**
- * 节点
- */
-class TreeNode {
-
-    /**
-     * 节点值
-     */
-    int value;
-
-    /**
-     * 左节点
-     */
-    TreeNode left;
-
-    /**
-     * 右节点
-     */
-    TreeNode right;
-
-    public TreeNode(int value) {
-        this.value = value;
-        left  = null;
-        right = null;
-    }
-}

@@ -1,6 +1,6 @@
 package org.algorithm.tree;
 /*
- * Copyright [2015] [Jeff Lee]
+ * Copyright [2015-2019] [Jeff Lee]
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
