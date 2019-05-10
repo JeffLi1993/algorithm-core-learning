@@ -18,9 +18,9 @@ package org.algorithm.comparable;
 
 
 /**
- * 字符串按字典顺序排序案例
+ * 字符串比较案例
  *
- * Created by bysocket on 19/5/9.
+ * Created by bysocket on 19/5/10.
  */
 public class StringComparisonDemo {
     
@@ -42,5 +42,9 @@ public class StringComparisonDemo {
         String bar05 = "aABCD";
         System.out.println(foo.compareTo(bar04)); // -1  (foo 的 'C' 字符 ASCII 码值为 67，bar04 的 'D' 字符 ASCII 码值为 68。返回 67 - 68 = -1)
         System.out.println(foo.compareTo(bar05)); // -32 (foo 的 'A' 字符 ASCII 码值为 65，bar04 的 'a' 字符 ASCII 码值为 97。返回 65 - 97 = -32)
+        
+        String bysocket01 = "泥瓦匠";
+        String bysocket02 = "瓦匠";
+        System.out.println(bysocket01.compareTo(bysocket02));// -2049 （泥 和 瓦的 Unicode 差值）
     }
 }
