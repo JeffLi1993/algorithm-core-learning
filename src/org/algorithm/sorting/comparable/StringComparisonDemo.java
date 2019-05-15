@@ -1,4 +1,4 @@
-package org.algorithm.comparable;
+package org.algorithm.sorting.comparable;
 
 /*
  * Copyright [2015-2019] [泥瓦匠BYSocket]
