@@ -22,24 +22,28 @@ import java.util.Arrays;
 /**
  * 插入排序案例
  * <p>
- * Created by bysocket on 19/5/15.
+ * Created by 泥瓦匠@bysocket.com on 19/5/15.
  */
 public class InsertionSortingDemo {
     
     /**
      * 插入排序
      *
-     * @param arr
-     * @param <T>
+     * @param arr 能比较的对象数组
+     * @param <T> 已排序的对象数组
      */
     public static <T extends Comparable> void insertionSort(T[] arr) {
         int j;
         
+        // 从数组第二个元素开始，向前比较
         for (int p = 1; p < arr.length; p++) {
             T tmp = arr[p];
-            for (j = p; j > 0 && tmp.compareTo(arr[j - 1]) < 0; j--) {
+            // 循环，向前依次比较
+            // 如果比前面元素小，交换位置
+            for (j = p; (j > 0) && (tmp.compareTo(arr[j - 1]) < 0); j--) {
                 arr[j] = arr[j - 1];
             }
+            // 如果比前面元素大或者相等，那么这就是元素的位置，交换
             arr[j] = tmp;
         }
     }
