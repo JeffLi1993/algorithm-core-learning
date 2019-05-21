@@ -27,19 +27,14 @@
 3. 帮忙分享该系列文章链接给更多的朋友
 
 
-## 二、项目结构
-- src 目录<br>
-数据结构与算法的Java实现的学习案例<br>
-- test目录(测试包名与src目录保持一致)<br>
-对应包的详细测试案例<br>
-
 ### 文章目录
+- [程序兵法：Java String 源码的排序算法（一）](https://www.bysocket.com/archives/2334/%E7%A8%8B%E5%BA%8F%E5%85%B5%E6%B3%95%EF%BC%9Ajava-string-%E6%BA%90%E7%A0%81%E7%9A%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89)
 - [图解：二叉搜索树算法（BST）](https://www.bysocket.com/archives/1209/%E5%9B%BE%E8%A7%A3%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%AE%97%E6%B3%95%EF%BC%88bst%EF%BC%89)
 
 ### 包目录：
 
-	├── org.algorithm.comparable  // 比较排序算法	
-	├── org.algorithm.tree		    // 树的算法
+	├── org.algorithm.tree // 树的算法
+	├── org.algorithm.sorting // 排序算法
 	│
 	拼命更新！顶！d=====(￣▽￣*)b
 
