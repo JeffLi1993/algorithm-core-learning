@@ -28,6 +28,7 @@
 
 
 ### 文章目录
+- [程序兵法： Java 源码的插入排序算法 （二）](https://www.bysocket.com/technique/%E7%AE%97%E6%B3%95/2369.html)
 - [程序兵法：Java String 源码的排序算法（一）](https://www.bysocket.com/technique/2334.html)
 - [图解：二叉搜索树算法（BST）](https://www.bysocket.com/technique/2337.html)
 
