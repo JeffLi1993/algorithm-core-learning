@@ -1,23 +1,12 @@
-### 欢迎加入小马哥 Java 星球
+推荐工具：
 
-深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
-欢迎加入「小马哥 Java 星球」，希望大家多在星球里沟通，让我们探讨技术，把握趋势，共同进步。
-<table>
-      <tbody>
-            <tr>
-          <td align="center" valign="middle">
-              <img width="300" src="https://imgkr.cn-bj.ufileos.com/cafaa797-baeb-4d6a-bf08-86d7b01f51b5.jpeg">
-          </td>
-        </tr>
-      </tbody>
-      
-</table>
+[微信公众号 Markdown 编辑器 - OpenWrite](https://md.openwrite.cn/)：Markdown 微信编辑器是一款专业强大的微信公众平台在线编辑排版工具，提供手机预览功能，让用户在微信图文 、文章、内容排版、文本编辑、素材编辑上更加方便。 - [更多介绍](https://openwrite.cn/product-markdown)
 
 # 程序兵法：算法与数据结构 Java 快速教程
 关于 Java 数据结构与算法 学习积累的例子，是初学者及设计模式巩固的最佳实践。
 
 ### 一、支持泥瓦匠
-1. 拿起微信，关注公众号：「泥瓦匠BYSocket 」。添加我微信：bysocket01，加入纯技术交流群，成长技术
+1. 拿起微信，关注公众号：「泥瓦匠BYSocket 」
 2. 给教程的开源代码仓库点个 **Star** 吧
   * Github：[https://github.com/JeffLi1993/algorithm-core-learning](https://github.com/JeffLi1993/algorithm-core-learning)
   * Gitee：[https://gitee.com/jeff1993/algorithm-core-learning](https://gitee.com/jeff1993/algorithm-core-learning)
